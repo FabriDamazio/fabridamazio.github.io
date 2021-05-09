@@ -2,6 +2,7 @@
 layout: post
 title: Os dois principais equívocos no debate sobre o Artesanato de Software
 gh-repo: FabriDamazio/fabridamazio.github.io
+cover-img: /assets/img/craftsman.jpg
 gh-badge: [star, follow]
 tags: [artesanato]
 comments: true
