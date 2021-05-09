@@ -4,7 +4,7 @@ title: Programadores que não conhecem sua história estão fadados a repeti-la
 gh-repo: FabriDamazio/fabridamazio.github.io
 cover-img: /assets/img/hydre.jpg
 gh-badge: [star, follow]
-tags: [agile], [agilidade], [artesanato]
+tags: [agile, agil, artesanato]
 comments: true
 ---
 
